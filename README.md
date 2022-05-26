@@ -24,7 +24,9 @@ Together, with the power of more socially responsible investment opportunities, 
 # Basic information:
 Ethica was founded to address 3 critical issues:
 1.	To create a simple and accessible digital platform for retail investors to access high quality projects and opportunities that are based on ethical and sustainable principles.
+
 2.	To be a recognized global platform for impact entrepreneurs and start-ups looking to launch and raise funds for projects which meet UN SDG and ESG narratives.
+
 3.	To create an ecosystem that directly delivers millions of digital wallets with free token drops to underserved communities worldwide while also providing requisite education on blockchain technology to bridge the inequality and wealth gap
 
 Ethica aims to address these issues by adopting digital blockchain technology. Traditionally, retail investors have limited opportunities to participate in and support ethical and sustainable projects due to them being typically large sized and in later stages of the project life cycle. We want to disrupt this model by creating a platform where the common man can invest and support causes, he or she believes in, from day one. By tokenizing these opportunities, individual investors can now contribute smaller quantum amounts towards these initiatives.
