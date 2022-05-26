@@ -2,9 +2,13 @@
 Project name: Ethica
 
 We are Ethica.
+
 Email address: enquiry@ethica-x.io
+
 Official Project Website: https://ethica-x.io/
+
 Official Project Email Address: enquiry@ethica-x.io
+
 Project Sector: Blockchain / ESG
 
 # Project description: 
@@ -29,9 +33,12 @@ As part of the Ethica’s vision and leadership, Ethica pledges to donate 80% of
 
 # Social profiles:
 Twitter: https://twitter.com/Ethica_2022
-Instagram: https://instagram.com/ethica2022?utm_medium=copy_link
-Linkedin: https://www.linkedin.com/company/ethica2022/?viewAsMember=true
-Reddit: https://www.reddit.com/user/Ethica_2022
-YouTube： https://www.youtube.com/channel/UCKaiUxnkSllw4PRvCuWBgOQ
 
+Instagram: https://instagram.com/ethica2022?utm_medium=copy_link
+
+Linkedin: https://www.linkedin.com/company/ethica2022/?viewAsMember=true
+
+Reddit: https://www.reddit.com/user/Ethica_2022
+
+YouTube： https://www.youtube.com/channel/UCKaiUxnkSllw4PRvCuWBgOQ
 
